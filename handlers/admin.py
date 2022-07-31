@@ -21,8 +21,8 @@ def check_date (string):
         date =None
         return date
 
-#ID = [56303828]
-ID = [563038285, 1026473425]
+
+ID = []
 
 
 

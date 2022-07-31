@@ -8,7 +8,7 @@ import datetime
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
-ID = [563038285, 1026473425]
+ID = []
 
 def check_date (string):
     try:
